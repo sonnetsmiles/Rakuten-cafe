@@ -1,6 +1,8 @@
 # rakuten_cafe
 
-A new Flutter application.
+
+* A POC for Rakuten cafeteria management
+* Flutter application
 
 ## Getting Started
 
